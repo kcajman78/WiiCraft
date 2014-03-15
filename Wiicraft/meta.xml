@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <app version="1">
+   <name>WiiCraft Installer</name>
+   <coder>filfat</coder>
+   <version>0.7.0</version>
+   <release_date>201311280000</release_date>
+   <short_description>WiiCraft: A Voxel Game For The Nintendo Wii/vWii</short_description>
+   <long_description>This is WiiCraft, A Voxel Game for the Nintendo Wii/vWii</long_description>
+ </app>
